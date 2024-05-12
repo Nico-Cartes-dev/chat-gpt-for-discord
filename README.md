@@ -41,6 +41,9 @@ npm start
 - Node.js is required to run this project. If you haven't installed Node.js yet, you can find instructions [here](https://nodejs.org/).
 - Keep in mind that the GPT-3.5 API has limitations on the number of queries. If you encounter any issues related to query limits, please contact the developer for assistance.
 - This project is under ongoing development. If you have suggestions or enhancements to increase the number of queries or improve functionality, feel free to contribute or contact the developer.
+- **To enable your bot to interact with you on Discord, create a channel and grant the bot access to read and send messages. For creating a bot, refer to [this page](https://discord.com/developers/docs/intro).**
+
+
 
 ## Contributions
 
