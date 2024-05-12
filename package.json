@@ -1,0 +1,22 @@
+{
+  "name": "gpt-discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file .env index.js",
+    "dev": "nodemon --env-file .env index.js"
+  },
+  "keywords": [],
+  "author": "cirilo",
+  "license": "ISC",
+  "description": "usa chat gpt en discord",
+  "homepage": "",
+  "dependencies": {
+    "discord.js": "^14.2.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.45.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
