@@ -9,8 +9,8 @@
   "keywords": [],
   "author": "cirilo",
   "license": "ISC",
-  "description": "usa chat gpt en discord",
-  "homepage": "",
+  "description": "use chat gpt in discord",
+  "homepage": "https://github.com/ankins749/chat-gpt-for-discord",
   "dependencies": {
     "discord.js": "^14.2.0",
     "dotenv": "^16.4.5",
