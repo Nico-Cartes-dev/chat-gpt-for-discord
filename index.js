@@ -10,8 +10,8 @@ const openaiApiKey = process.env.OPENAI_API_KEY;
 const openaiClient = new OpenAI(openaiApiKey);
 
 client.on('ready', () => {
-    console.log("Bot listo");
-    client.user.setActivity('preparando mi vida');
+    console.log("Bot ready");
+    client.user.setActivity("Hello, I'm ChatGPT for Discord. Ask me anything, I'm here to help you in your day-to-day.");
 });
 
 client.on('messageCreate', async message => {
